@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on nothing.<br>🌱 I’m currently learning Javascript<br>⚡ Fun fact i can open a beer bottle with my teeth
+🔭 I’m currently working on My Personal Website!.<br>🌱 I’m currently learning Javascript<br>⚡ Fun fact i can open a beer bottle with my teeth
 
 
 # 💻 Tech Stack:
