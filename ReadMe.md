@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Community Driven College Study Material  Hub<br>👯 I’m looking to collaborate on a Art Showcase Website <br>🌱 I’m currently learning C++<br>
+🔭 I’m currently working on a Community Driven College Study Material  Hub<br>👯 I’m looking to collaborate on a Art Showcase Website <br>🌱 I’m currently learning Next.js<br>
 
 
 ## 🌐 Socials:
