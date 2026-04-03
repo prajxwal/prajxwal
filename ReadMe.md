@@ -1,6 +1,5 @@
 # Hey, I'm Prajwal 👋
 
-"Code that works is just code that hasn't broken yet" - me, probably
 
 I mess around with quant stuff (my Greeks are all Greek to me), training neural nets that work for reasons I'll figure out later (never), and doing physics sims like Oppenheimer—minus the genius, plus the existential dread.
 
